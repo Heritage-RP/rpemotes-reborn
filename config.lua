@@ -74,7 +74,7 @@ Config = {
     -- Pointing
     PointingEnabled = true,
     PointingKeybindEnabled = true,
-    PointingKeybind = 'B',
+    PointingKeybind = 'Y', -- Héritage RP : B ouvre l'Interface Portative (hrp-ip)
     PointingInCar = false,
     ReplayEmoteAfterPointing = true,
 
