@@ -74,7 +74,7 @@ Config = {
     -- Pointing
     PointingEnabled = true,
     PointingKeybindEnabled = true,
-    PointingKeybind = 'Y', -- Héritage RP : B ouvre l'Interface Portative (hrp-ip)
+    PointingKeybind = 'Y', -- fork patch (PATCHES.md): B opens the portable device of the core (hrp-ip)
     PointingInCar = false,
     ReplayEmoteAfterPointing = true,
 
